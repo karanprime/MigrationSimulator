@@ -1,0 +1,9 @@
+# Project Plan
+
+We plan on creating a framework to simulate migration patterns of humans across the world.
+
+In our framework, we have a simplified world (in the form of a fine grid), with different regions representing different countries. A bunch of these countries can be grouped together to form a continent and all such continents can be separated by water. Geographical features (such as mountains or rivers) and political borders that hinder migration can be treated as boundaries of varying permeabilities.
+
+Each country in our world will be occupied by a certain population initially. We plan to study how people move both within and across countries. Thus, each country (or even smaller regions within countries) can be assigned an average economic rating (signifying economic wealth within the country), human development index, political freedom score etc which can be randomly mutated or changed as per a hardcoded formula as time progresses . These will be used as different parameters to control the rate and flow of migration, allowing us to see how people move across a given number of time steps. We expect to use a combination of different models like simple random walk, cellular automata, diffusion, biased walk and segregation models to simulate the migration phenomena.
+
+We understand that such a project can become overly complex very quickly. We will start with a simplified model and implement features iteratively. We can start with a small time period and see how it goes (with the best case being that we start with a small population in Africa 200,000 years ago and continue to present day). If we build a sufficiently good framework and time permitting, we can also run bigger experiments such as spreading of diseases on a global scale. Another use of this framework can be to see cyclic migration patterns in other species such as birds and fishes.
