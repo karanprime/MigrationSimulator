@@ -13,20 +13,4 @@ Our simulator can be used to simulate population behavior with respect to popula
 
 The final code is in Final_Project3.ipynb. The poster we made for the presentation is Final_Poster.pdf.
 
-### Repo Organization
-Each milestone was pushed to a seperate branch. Eg: Project 3B will be in a branch titled 3B. The final project will be in the Master branch.
-
-* Project 3B is in the branch 3B.
-Link: [https://github.gatech.edu/kshah84/CX4230Project3/tree/3B](https://github.gatech.edu/kshah84/CX4230Project3/tree/3B)
-* Project 3C is in branch 3C.
-Link: [https://github.gatech.edu/kshah84/CX4230Project3/tree/3C](https://github.gatech.edu/kshah84/CX4230Project3/tree/3C)
-* Project 3D is in branch 3D.
-Link: [https://github.gatech.edu/kshah84/CX4230Project3/tree/3D](https://github.gatech.edu/kshah84/CX4230Project3/tree/3D)
-* Project 3E is in branch 3E.
-Link: [https://github.gatech.edu/kshah84/CX4230Project3/tree/3E](https://github.gatech.edu/kshah84/CX4230Project3/tree/3E)
-* The poster is in branch 3F.
-Link: [https://github.gatech.edu/kshah84/CX4230Project3/tree/3F](https://github.gatech.edu/kshah84/CX4230Project3/tree/3F)
-* The gh-pages branch is a webpage for the project.
-Link: [https://github.gatech.edu/pages/kshah84/CX4230Project3](https://github.gatech.edu/pages/kshah84/CX4230Project3)
-
-
+Read the poster and the conceptual model files for more details.
